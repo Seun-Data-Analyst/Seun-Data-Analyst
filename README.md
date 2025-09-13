@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Blue Data Analyst LinkedIn Banner" src="https://github.com/user-attachments/assets/8333d1f6-955b-4fc9-964d-b53718a155d7" />
+<img width="1584" height="396" alt="Blue Data Analyst LinkedIn Banner" src="https://github.com/user-attachments/assets/4b8f9238-b750-4894-a26a-990a528e4c45" />
 
 # 👋 Hi, I'm Oluwaseun Solarin
 
