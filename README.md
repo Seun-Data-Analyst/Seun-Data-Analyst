@@ -42,9 +42,9 @@ I enjoy working with data visualization, analytics, and storytelling to support 
 ---
 
 ## 📬 Contact
-- 📧 Email: [sholeeseun@gmail.com]  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](#)  
-- 🌐 Portfolio: [yourportfolio.com](#)  
+- 📧 Email: sholeeseun@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/data-analyst-oluwaseun-solarin 
+- 🌐 Portfolio: https://oluwaseunsolarin.my.canva.site/  
 
 ---
 
